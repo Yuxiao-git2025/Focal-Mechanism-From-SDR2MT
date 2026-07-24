@@ -16,6 +16,7 @@ In anisotropic media, however, the moment tensor and source tensor may have diff
 <img width="1350" height="900" alt="Fig1" src="https://github.com/user-attachments/assets/26e0f821-7a7e-4ded-bf4b-476e1a74d0d4" />
 <img width="1050" height="1020" alt="Fig2" src="https://github.com/user-attachments/assets/364f6980-dd9d-47dc-9b8b-69899351b8ce" />
 Points in the first and third quadrants, where ISO and CLVD have the same sign: Positive ISO and CLVD indicate tensile opening, while negative ISO and CLVD indicate compressive closing. <br>
+<img width="1050" height="1020" alt="Fig5" src="https://github.com/user-attachments/assets/546c93b1-6dee-4171-a3c2-5b948dde42e6" />
 
 The third part of the script is used to determine which type of seismic event a given moment tensor most likely belongs to, after you already have the moment tensor results. For example:  
 ---

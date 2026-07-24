@@ -58,6 +58,9 @@ set(gcf,'Position',[400,85,900,600]);
 %% Plot Diamond
 MEC_PlotDiamond(ResultMT2.clvd,ResultMT2.iso);
 
+%% Plot Triangle
+load("Data\SDR_Test.mat");
+Result=MEC_PlotTriangleSDR(SDR_Test,'PlotOdd',1);
 
 
 % =========================================================================
